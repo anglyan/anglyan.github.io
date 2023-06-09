@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link href="/assets/css/syntax.css" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    {% include mathjax.html %}
+
+  </head>
+  <body>
+      {% include header.html %}
+
+  <div class="row">
+    <div class="column side">
+      {% include navigation.html %}
+    </div>
+    <div class="column middle">
+      {{ content }}
+    </div>
+  </div>
+
+  {% include footer.html %}
+  
+</body>
+</html>

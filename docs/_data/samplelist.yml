@@ -1,0 +1,10 @@
+doc_list_title: Pages
+docs:
+
+- title: About
+  url: about.html
+
+- title: Python
+  url: python/python.html
+
+
