@@ -1,5 +1,6 @@
 ---
 topic: research
+layout: default
 ---
 
 # Research

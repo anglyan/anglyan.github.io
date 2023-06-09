@@ -1,8 +1,9 @@
 ---
 topic: rust
+layout: default
 ---
 
-# Straightforward Rust
+# Rust
 
 Rust is a complex programming language, meant to be a safer alternative
 to C and C++.

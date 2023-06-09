@@ -55,7 +55,12 @@ plugins:
 
 header_pages:
   - about.md
-
+  - research/research.md
+  - python/python.md
+  - rust/rust.md
+  - blog/index.md
 
 highlighter: rouge
+
+show_drafts: true
 

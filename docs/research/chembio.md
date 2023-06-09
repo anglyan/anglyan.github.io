@@ -1,4 +1,5 @@
 ---
 topic: chembio
+layout: default
 ---
 

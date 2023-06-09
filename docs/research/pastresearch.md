@@ -1,5 +1,7 @@
 ---
 topic: research
+layout: default
+
 ---
 
 # Past research projects

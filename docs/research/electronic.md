@@ -1,5 +1,6 @@
 ---
 topic: electronic
+layout: default
 ---
 
 # Electronic materials

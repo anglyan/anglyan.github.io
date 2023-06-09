@@ -1,11 +1,12 @@
 ---
 topic: python
+layout: default
 ---
 
 # Python
 
-This is a list of some of my projects in Python. It includes from small
-scripts to medium size modules.
+This is a list of some of my projects in Python. It ranges from small
+scripts to small packages.
 
 ## spikingtorch
 

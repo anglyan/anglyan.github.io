@@ -1,5 +1,6 @@
 ---
 topic: neuro
+layout: default
 ---
 
 # Neuromorphic computing

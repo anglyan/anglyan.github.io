@@ -1,5 +1,6 @@
 ---
 topic: ald
+layout: default
 ---
 
 # Atomic layer deposition

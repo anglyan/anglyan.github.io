@@ -1,5 +1,6 @@
 ---
 topic: crosssections
+layout: default
 ---
 
 # Argon cross sections for electron impact processes
