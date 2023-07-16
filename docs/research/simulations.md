@@ -24,7 +24,7 @@ based on physics/chemistry and math.
 
 ## What do I need to get going?
 
-1. Going back to the *fundamentals*. You don't need a supercomputing
+1. Going back to the *fundamentals*. You don't need a supercomputer
    or a fancy simulation to get going. In many cases, going back to the basics, to
    essentially textbook-level equations can get you a long way. A lot of phenomena
    in physics/engineering/materials science are formulated using simple models or
@@ -70,4 +70,24 @@ I basically followed the needs/opportunities at the time: I had a computer that
 did Basic, then someone lent me a book of C, my college offered a few credits
 intro to C++, my group and collaborators worked with Fortran, another postdoc
 pointed me to Python, and the rest were the result of my own explorations,
-interests, and needs at work. 
+interests, and needs at work.
+
+# Models and simulatiosn as the great scientific equalizer
+
+One final point: not everybody has access to state of the art experimental
+equipment or funds to run an experimental lab with the tools you need to
+make a research impact. However, in many fields (not all of them, though) you
+can make an impact in your research community by answering the right
+question with the right tool. And while it is true that few of us have
+access to the computational resources required to run large simulations, a
+model that is simple enough to run on a budget laptop and
+that gets you 80% there has its value. 
+
+Models and simple simulations can therefore be an equalizer in scientific
+research, if you find a relevant problem that can be solved or at least partially
+solved with models you can put together. It doesn't come for free though: in order
+to get there you will have to invest your time and brain power to get the
+right skills, the background you need, and to identify the right challenge. But
+at least there is a path.
+
+
