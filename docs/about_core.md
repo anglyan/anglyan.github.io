@@ -13,7 +13,7 @@ My current research focuses on the following areas:
     structure, and properties of materials. Basically how stuff is made
     (and unmade), from fundamental physics to manufacturing. My research
     in this area leverages both simulations, 
-    machine learning, and in-situ characterizationm to explore
+    machine learning, and in-situ characterization techniques to explore
     fundamental questions, accelerate discovery
     and its transition to manufacturing. I have focused primarily on
     atomic layer deposition, a thin film growth technique that is
@@ -55,6 +55,7 @@ Things that you can find on this site (see the content sidebar):
 -   If you are serious, a [summary of my publications](research/pubs.html),
     etc.
 -   My [research interests](research/research.html).
+-   [Why simulations matter](research/simulations.html).
 -   Why [insects make such a good model system](research/neuro.html)
     for smart sensors and artificial intelligence.
 -   My [chemical biography](research/chembio.html), summarizing my personal
