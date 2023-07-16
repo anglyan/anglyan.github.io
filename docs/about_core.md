@@ -12,10 +12,12 @@ My current research focuses on the following areas:
     and the  relationship between surface kinetics,
     structure, and properties of materials. Basically how stuff is made
     (and unmade), from fundamental physics to manufacturing. My research
-    in this area focuses on a technique called atomic layer deposition,
-    and leverages both in-situ characterizationm, simulations, and 
-    machine learning approaches to acccelerate discovery
-    and its transition to manufacturing. 
+    in this area leverages both simulations, 
+    machine learning, and in-situ characterizationm to explore
+    fundamental questions, accelerate discovery
+    and its transition to manufacturing. I have focused primarily on
+    atomic layer deposition, a thin film growth technique that is
+    widely used in microelectronics and for energy applications.
 -   [Neuromorphic computing](research/neuro.html), or
     brain-inspired computing, both at the architecture/computational and
     the implementation/materials level. In particular I am interested in
