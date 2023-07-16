@@ -3,11 +3,13 @@ topic: research
 layout: default
 ---
 
-# Tools of the trade
+# Research
+
+## Tools of the trade
 
 - Why [models and simulations matter](/research/simulations.html)
 
-# Research
+## Research
 
 Here are a summary of some of my main research topics:
 
