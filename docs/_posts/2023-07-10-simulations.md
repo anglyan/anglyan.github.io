@@ -21,7 +21,7 @@ machine learning could be the right thing for you. When I talk
 about models and simulations here, I am refering to models mainly
 based on physics/chemistry and math.
 
-## What do I need to get going?
+### What do I need to get going?
 
 1. Going back to the *fundamentals*. You don't need a supercomputer
    or a fancy simulation to get going. In many cases, going back to the basics, to
@@ -47,7 +47,7 @@ based on physics/chemistry and math.
    hardest path out there, but also the most powerful. Learning a useful
    programming language is a must.
 
-## If you are really serious about simulations you should learn a programming language
+### If you are really serious about simulations you should learn a programming language
 
 Regardless of whether you can get away with Excel or pen and pencil, I cannot
 emphasize enough how important it is for a scientist/engineer to learn how
@@ -74,7 +74,7 @@ intro to C++, my group and collaborators worked with Fortran, another postdoc
 pointed me to Python, and the rest were the result of my own explorations,
 interests, and needs at work.
 
-## Models and simulations are a great scientific equalizer
+### Models and simulations are a great scientific equalizer
 
 One final point: not everybody has access to state of the art experimental
 equipment or funds to run an experimental lab with the tools you need to
