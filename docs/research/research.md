@@ -9,7 +9,7 @@ layout: default
 
 - Why [models and simulations matter](/research/simulations.html)
 
-## Research
+## Research topics
 
 Here are a summary of some of my main research topics:
 
