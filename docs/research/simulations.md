@@ -54,7 +54,10 @@ Regardless of whether you can get away with Excel or pen and pencil, I cannot
 emphasize enough how important it is for a scientist/engineer to learn how
 to code. And you are really primed for it: one of the hardest aspect of learning
 how to code is to find a motivation to do it. Otherwise it often becomes an
-academic exercise. In your case, you already have hundreds of interesting problems
+academic exercise that is likely to fail unless you have a strong driving
+force (as we say in Spanish, the graveyard is full of good intentions).
+
+In your case, you already have hundreds of interesting problems
 that you can use as motivation to learn: reading files and automatically plotting
 the data, building a simple simulation that you can validate with another tool or
 an analytical solution, learning how to process data so that you don't have to
@@ -72,7 +75,7 @@ intro to C++, my group and collaborators worked with Fortran, another postdoc
 pointed me to Python, and the rest were the result of my own explorations,
 interests, and needs at work.
 
-# Models and simulatiosn as the great scientific equalizer
+## Models and simulations are a great scientific equalizer
 
 One final point: not everybody has access to state of the art experimental
 equipment or funds to run an experimental lab with the tools you need to
@@ -86,7 +89,7 @@ that gets you 80% there has its value.
 Models and simple simulations can therefore be an equalizer in scientific
 research, if you find a relevant problem that can be solved or at least partially
 solved with models you can put together. It doesn't come for free though: in order
-to get there you will have to invest your time and brain power to get the
+to get there, you will have to invest your time and brain power to get the
 right skills, the background you need, and to identify the right challenge. But
 at least there is a path.
 
