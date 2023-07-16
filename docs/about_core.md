@@ -55,7 +55,7 @@ Things that you can find on this site (see the content sidebar):
 -   If you are serious, a [summary of my publications](research/pubs.html),
     etc.
 -   My [research interests](research/research.html).
--   [Why simulations matter](research/simulations.html).
+-   [Why models and simulations matter]({% post_url 2023-07-10-simulations %}).
 -   Why [insects make such a good model system](research/neuro.html)
     for smart sensors and artificial intelligence.
 -   My [chemical biography](research/chembio.html), summarizing my personal
