@@ -7,7 +7,7 @@ layout: default
 
 ## Tools of the trade
 
-- Why [models and simulations matter](/research/simulations.html)
+- Why [models and simulations matter]({% post_url 2023-07-10-simulations %})
 
 ## Research topics
 
