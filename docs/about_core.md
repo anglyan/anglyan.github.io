@@ -3,8 +3,7 @@
 I am a physicist / materials scientist, currently a staff scientist at
 [Argonne National
 Laboratory](https://www.anl.gov/profile/angel-yanguasgil)'s
-Applied Materials Division, and a Fellow at Northwestern Argonne
-Institute for Science and Engineering at Northwestern University.
+Applied Materials Division.
 
 My current research focuses on the following areas:
 
@@ -12,8 +11,8 @@ My current research focuses on the following areas:
     and the  relationship between surface kinetics,
     structure, and properties of materials. Basically how stuff is made
     (and unmade), from fundamental physics to manufacturing. My research
-    in this area leverages both simulations, 
-    machine learning, and in-situ characterization techniques to explore
+    in this area leverages simulations, 
+    [machine learning](research/machine.html), and in-situ characterization techniques to explore
     fundamental questions, accelerate discovery
     and its transition to manufacturing. I have focused primarily on
     atomic layer deposition, a thin film growth technique that is
@@ -27,12 +26,9 @@ My current research focuses on the following areas:
     inspiration, exploring both novel algorithms and their implementation
     for AI at the edge and a new generation of detectors.
 -   [Electronic materials](research/electronic.html),
-    and the way their properties can be leveraged to fabricate novel
-    devices in microelectronics, power electronics, RF, and quantum
-    computing applications. In particular, I am interested in how to
-    enable sensing and computing under extreme environments, and the
-    development of co-design approaches that bridge from materials
-    to applications.
+    both their synthesis and the way their properties can be leveraged to fabricate novel
+    devices in microelectronics, quantum
+    computing, and for advanced sensing applications.
 
 During my PhD and postdoctoral research I also developed some serious
 expertise in the following areas:
