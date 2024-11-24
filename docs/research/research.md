@@ -5,10 +5,6 @@ layout: default
 
 # Research
 
-## Tools of the trade
-
-- Why [models and simulations matter]({% post_url 2023-07-10-simulations %})
-
 ## Research topics
 
 Here are a summary of some of my main research topics:
