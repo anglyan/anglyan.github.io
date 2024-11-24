@@ -5,7 +5,8 @@ topic: bio
 # scientific output
 
 For a list of publications you can find my profile in
-ORCID: [0000-0001-8207-3825](https://orcid.org/0000-0001-8207-3825)
+[Google Scholar](https://scholar.google.com/citations?user=HKXeJ9cAAAAJ&hl=en)
+and ORCID: [0000-0001-8207-3825](https://orcid.org/0000-0001-8207-3825)
 
 ## My book!
 
@@ -14,6 +15,41 @@ PVD, CVD, and ALD](http://www.springer.com/us/book/9783319246703)
 
 
 ## Selected talks
+
+
+\[Invited Talk\] *Machine learning approaches to accelerate nanomaterials growth and co-design in microelectronics and energy applications*, NanoKorea 2023, South Korea (2023).
+
+\[Invited Talk\] *The Insect Brain as a Model System for Smart Neuromorphic Structures for the Edge*, 2023 German-American Frontiers of Engineering Symposium, National Academies of Engineering,
+Julich, Germany (2023).
+
+\[Seminar\] *Machine learning for thin film growth and microelectronics: exploring process optimization, self-driving reactors, and application-driven codesign*, Graduate Colloquium,
+Materials Science and Engineering Department, University of Illinois at Urbana-Champaign (2022).
+
+\[Seminar\] *Insect-Inspired Architectures for Computing at the Edge: A Pathway to On-Chip, Continual Learning and Computing Under Extreme Environments*, Minnesota NeuroSpin Initiative, University
+of Minnesota (2022).
+
+\[Seminar\] *Insect-inspired architectures for computing at the edge: a pathway to on-chip, continual learning and computing under extreme environments*, University of Southampton, UK (2022).
+
+\[Seminar\] *Low temperature routes to MgB2 films for cavities using atomic layer deposition*,
+TTC Thin Film Seminar, Deutsches Elektronen-Synchrotron DESY, Germany (2022).
+
+\[Seminar\] *Changing the game for artificial intelligence with neuromorphic computing*, NNSA Emerging Technologies Seminar - Microelectronics (2021).
+
+\[Seminar\] *Understanding Material Growth Using Atomic Layer Deposition*, Penn State University (2021).
+
+\[Seminar\] *Materials and Architectures for Brain-Inspired Computing*, NNSA Emerging Technologies Seminar - Brain Computer Interface Technologies (2021)
+
+\[Invited Talk\] *Exploring the Potential of Machine Learning and AI for ALD Process Optimization*, 240th ECS Meeting, Virtual (2021).
+
+\[Invited Talk \] *Predicting conformality in ALD: from fundamentals to machine
+learning*, 2020 November Networking – ALD at Aalto University, Finland (Virtual, 2020).
+
+\[Invited tutorial\] *ALD on High Aspect Ratio and Nanostructured Materials: from Fundamentals to Economics*, ALD/ALE 2020 Virtual Meeting (2020).
+
+\[Seminar\] *In-situ characterization, theory, and co-design approaches to accelerate the development of novel thin film processes and devices*, AVS Student Chapter colloquium, University of Illinois at Urbana-Champaign (2020).
+
+\[Invited\] *From molecules to solid: probing the structure of sub-nm ALD materials through in-situ FTIR and synchrotron techniques*,
+Japan Vacuum Society Symposium, Tsukuba, Japan (2019).
 
 \[Invited Talk\] *How Chemistry Drives Microstructure: Probing the
 Structure of sub-nm ALD Materials using in-situ FTIR and Synchrotron
