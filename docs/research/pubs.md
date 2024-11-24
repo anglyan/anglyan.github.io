@@ -116,15 +116,23 @@ Nanoscale, M. Losurdo and K. Hingerl, eds. Springer-Verlag (2013).
 
 ## Patents
 
-> 1.  *Surface preparation for thin film growth by enhanced nucleation*,
->     US Patent 7,943,527.
-> 2.  *Doping control by ALD surface functionalization*, US Patent
->     8,951,615.
-> 3.  *Method and system for continous atomic layer deposition*, US
->     Patent 9,598,769
-> 4.  *Fast method for reactor and feature scale coupling in ALD and
->     CVD*, US Patent 9,727,672
-> 5.  *Polymer-hybrid electro-optic devices and method of fabricating
->     polymer-hybrid electro-optic devices*, US Patent 10,164,188
+1. *Atomic layer deposition for continuous, high-speed thin films*, US Patent 12,006,570
 
+2. *Methods for low-temperature p-CVD and thermal ALD of magnesium diboride*, US Patent 11,773,488
 
+3. *Refractory solar selective coatings*, US Patent 11,435,114
+
+4. *Molecular layer etching*, US Patent 11,257,682
+
+5. *Polymer-hybrid electro-optic devices and method of fabricating polymer-hybrid electro-optic
+   devices*, US Patent 10,164,188
+
+6. *Fast method for reactor and feature scale coupling in ALD and CVD*, US Patent 9,727,672
+
+7. *Method and system for continuous atomic layer deposition*, US Patent 9,598,769
+
+8. *Doping control by ALD surface functionalization*, US Patent 8,951,615
+
+9. *Surface preparation for thin film growth by enhanced nucleation*, US Patent 8,110,503
+
+10. *Surface preparation for thin film growth by enhanced nucleation*, US Patent 7,943,527
