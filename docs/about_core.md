@@ -55,12 +55,7 @@ Things that you can find on this site (see the content sidebar):
     for smart sensors and artificial intelligence.
 -   My [chemical biography](research/chembio.html), summarizing my personal
     relationship with different chemical elements.
--   Typographic curiosities, such as the shapes of the letter Q and how
-    the different typefaces are related according to their wikipedia
-    links.
--   Programming, coming back to my ZX spectrum plus, now trying to
-    understand how high performance computing can be applied to advanced
-    manufacturing.
--   Theoretical physics, dynamic systems, and stochastic processes.
--   Typography, geology.
+-   My upgoer five description of [atomic layer deposition](/stuff/upgoer.html).
+-   A [blog](/blog/index.html) (in Spanish). 
+
 
