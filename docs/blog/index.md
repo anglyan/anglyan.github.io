@@ -1,7 +1,9 @@
 ---
 layout: home
-title: Blog
+title: Manual de campo para científicos sin recursos
 ---
 
-Mi blog en español.
+Colección de recursos sin coste alguno que uso para
+mi investigación. Parte biografía tecnológica, parte
+tutorial. En Español.
 
