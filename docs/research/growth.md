@@ -30,24 +30,18 @@ microstructure, in some cases leading to highly ordered structures and
 crystalline materials.
 
 Developing the ability to predict how growth conditions lead to a
-certain microstructure can have a tremendous impact in our ability to
-grow new materials or for the scale up of lab scale processes.
-Therefore, it has a strong connection with
-[advanced manufacturing](/research/advancedmanu.html).
-The control of surface reactivity can also impact the ability to achieve
-homogeneous materials or coat evenly high aspect ratio and
-nanostructured substrates, something that has fueled the development of
-3D architectures in computer chips. It can also be used to develop new
-patterning strategies exploiting variations in reactivity between
-different materials to selectively grow in specific regions of the
-surface.
+certain microstructure will accelerate the pace at which we
+can transfer processes and materials from lab to industry. And this
+is something that cuts across many applications, from semiconductor
+chip manufacturing to energy storage and quantum computing. It can
+also help us chart new paths towards the synthesis of new materials.
 
-## Combining models and experiments
+## Combining experiments, models, and machine learning
 
-My approach to these questions is to combine experiments and simulations
-to deepen our understanding of the fundamental aspects of thin film
-growth and develop new applications. From a experimental point of view,
-we focus primarily on a technique called
+My approach to these questions is to combine experiments, simulations,
+and machine learning to deepen our understanding of the fundamental aspects
+of thin film growth and develop new applications. From a experimental point
+of view, we focus primarily on a technique called
 [atomic layer deposition](/research/ald.html),
 which has the advantage of being extremely reproducible -when done
 right. We also leverage synchrotron radiation and other in-situ
@@ -60,6 +54,13 @@ development of novel simulation tools to model reactive transport and
 predict growth within high surface area materials. These allow us to
 translate our fundamental understanding to wafer and feature length
 scales that are relevant for advanced manufacturing applications.
+
+What role can machine learning play in all of this? I am exploring
+multiple approaches, from self-driving tools that can explore
+and optimize new processes without a human in the loop, to surrogate
+models that can sidestep the need of doing complex simulations and
+directly use the data that we get from inline metrology and characterization
+tools to predict how to improve the way we make the materials.
 
 ## And beyond
 
