@@ -14,6 +14,13 @@ and ORCID: [0000-0001-8207-3825](https://orcid.org/0000-0001-8207-3825)
 PVD, CVD, and ALD](http://www.springer.com/us/book/9783319246703)
 
 
+## Media and press releases
+
+[Evaluating generative AI for research using an
+open-ended benchmark](https://pubs.aip.org/aip/sci/article/2025/15/151104/3343179/Evaluating-generative-AI-for-research-using-an): AIP Scilight.
+
+
+
 ## Selected talks
 
 

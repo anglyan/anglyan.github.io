@@ -72,4 +72,4 @@ sculpted by erosion, to the underlying models that help us connect the
 morphologies observed in vastly different systems.
 
 ![The structure of silica aerogels as seen through an scanning electron
-microscope.](/assets/images/aerogels.png){: width="250" .center-image}
+microscope.](/assets/images/aerogels.png){: width="250";.center-image}
