@@ -2,7 +2,7 @@
 topic: bio
 ---
 
-# scientific output
+# Scientific output
 
 For a list of publications you can find my profile in
 [Google Scholar](https://scholar.google.com/citations?user=HKXeJ9cAAAAJ&hl=en)
@@ -14,14 +14,51 @@ and ORCID: [0000-0001-8207-3825](https://orcid.org/0000-0001-8207-3825)
 PVD, CVD, and ALD](http://www.springer.com/us/book/9783319246703)
 
 
-## Media and press releases
+## In the media
 
-[Evaluating generative AI for research using an
-open-ended benchmark](https://pubs.aip.org/aip/sci/article/2025/15/151104/3343179/Evaluating-generative-AI-for-research-using-an): AIP Scilight.
+[Evaluating generative AI for research using an open-ended benchmark](https://pubs.aip.org/aip/sci/article/2025/15/151104/3343179/Evaluating-generative-AI-for-research-using-an), AIP Scilight (2025)
 
+[Edge AI Devices Eye Lifetime Learning](https://cacm.acm.org/news/lifetime-learning-for-ai/), Communications of the ACM (2024)
+
+[Argonne uses AI to optimize ALD in real time](https://www.semiconductor-today.com/news_items/2021/jul/argonne-120721.shtml), Semiconductors Today (2021)
+
+
+[National Lab Researchers Boost Chip Design Processes With Artificial Intelligence](https://www.nextgov.com/emerging-tech/2021/07/national-lab-researchers-boost-chip-design-processes-artificial-intelligence/182712/), Nextgov (2021) 
+
+
+[Argonne Turns to Insects for Neuromorphic Computing](https://www.hpcwire.com/2021/08/13/argonne-turns-to-insects-for-neuromorphic-computing/), HPCwire (2021)
+
+
+[Argonne’s machine-learning work may help ease US microchip shortage in time](https://www.fedscoop.com/argonne-machine-learning-ald/), FedScoop (2021)
+
+[Making Chips At 3nm And Beyond](https://semiengineering.com/making-chips-at-3nm-and-beyond/), Semiconductor Engineering (2020)
+
+[Argonne Team Looks to Insect Brains as Models for Computer Chip Innovation](https://www.nextgov.com/emerging-tech/2019/10/argonne-team-looks-insect-brains-models-computer-chip-innovation/160686/),
+Nextgov (2019)
+
+[Working with Wikipedia](https://cen.acs.org/articles/93/i36/Working-Wikipedia.html), Chemical & Engineering News (2015)
 
 
 ## Selected talks
+
+\[Gilbreth Lecture\] *The insect brain as a model system for smart neuromorphic architectures for the edge*, National Academies of Engineering National Meeting, Irvine, CA (2025).
+
+\[Invited Talk\] *Now how do I make this? AI for materials synthesis and manufacturing*, 
+NeurIPS 2024 Workshop on AI for Accelerated Materials Design, Vancouver, Canada (2024).
+
+\[Seminar\] *The insect brain as a model system for smart architectures at the edge*, 
+Emergent Technologies Seminar, Brain Science + Translational Neuromorphic Computing, Virtual (2024)
+
+\[Invited Talk\] *Happy together: training and exploration of hardware-aware SNNs for on-detector data processing*, ARCHIDE: Workshop on Architecture Design Methodologies and Ecosystems for HPC and Scientific Edge Computing, Lawrence Berkeley National Lab, CA (2024)
+
+\[Invited Talk\] *Machine learning and plasma assisted atomic layer deposition: one-shot optimization using growth profiles*, 5th International Conference on Data-Driven Plasma Science, Berkeley, CA (2024).
+
+\[Invited Talk\] *Scaling and scale up effects during area selective deposition using self-assembled monolayers and small molecule inhibitors*, MRS Spring Meeting, Seattle, WA (2024).
+
+\[Invited Talk\] *Machine learning and co-design approaches to accelerate ALD process optimization and novel device integration in microelectronics*, SEMICON Korea, South Korea (2024).
+
+\[Seminar\] *Emergent technologies in microelectronics: from lab to fab to AI accelerators*, Emergent Technology Seminar: Space Technologies & Advanced Integrated Circuit Architectures, Argonne
+National Laboratory, IL (2024)
 
 
 \[Invited Talk\] *Machine learning approaches to accelerate nanomaterials growth and co-design in microelectronics and energy applications*, NanoKorea 2023, South Korea (2023).
@@ -123,23 +160,25 @@ Nanoscale, M. Losurdo and K. Hingerl, eds. Springer-Verlag (2013).
 
 ## Patents
 
-1. *Atomic layer deposition for continuous, high-speed thin films*, US Patent 12,006,570
+1. *System for continuous atomic layer deposition*, US Patent 12,163,221
+	
+2. *Atomic layer deposition for continuous, high-speed thin films*, US Patent 12,006,570
 
-2. *Methods for low-temperature p-CVD and thermal ALD of magnesium diboride*, US Patent 11,773,488
+3. *Methods for low-temperature p-CVD and thermal ALD of magnesium diboride*, US Patent 11,773,488
 
-3. *Refractory solar selective coatings*, US Patent 11,435,114
+4. *Refractory solar selective coatings*, US Patent 11,435,114
 
-4. *Molecular layer etching*, US Patent 11,257,682
+5. *Molecular layer etching*, US Patent 11,257,682
 
-5. *Polymer-hybrid electro-optic devices and method of fabricating polymer-hybrid electro-optic
+6. *Polymer-hybrid electro-optic devices and method of fabricating polymer-hybrid electro-optic
    devices*, US Patent 10,164,188
 
-6. *Fast method for reactor and feature scale coupling in ALD and CVD*, US Patent 9,727,672
+7. *Fast method for reactor and feature scale coupling in ALD and CVD*, US Patent 9,727,672
 
-7. *Method and system for continuous atomic layer deposition*, US Patent 9,598,769
+8. *Method and system for continuous atomic layer deposition*, US Patent 9,598,769
 
-8. *Doping control by ALD surface functionalization*, US Patent 8,951,615
+9. *Doping control by ALD surface functionalization*, US Patent 8,951,615
 
-9. *Surface preparation for thin film growth by enhanced nucleation*, US Patent 8,110,503
+10. *Surface preparation for thin film growth by enhanced nucleation*, US Patent 8,110,503
 
-10. *Surface preparation for thin film growth by enhanced nucleation*, US Patent 7,943,527
+11. *Surface preparation for thin film growth by enhanced nucleation*, US Patent 7,943,527
