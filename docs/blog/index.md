@@ -1,9 +1,6 @@
 ---
 layout: home
-title: Manual de campo para científicos sin recursos
+title: Random thoughts
 ---
 
-Colección de recursos sin coste alguno que uso para
-mi investigación. Parte biografía tecnológica, parte
-tutorial. En Español.
-
+A collection of random thoughts 
