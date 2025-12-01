@@ -17,14 +17,16 @@ My current research focuses on the following areas:
     and its transition to manufacturing. I have focused primarily on
     atomic layer deposition, a thin film growth technique that is
     widely used in microelectronics and for energy applications.
--   [Neuromorphic computing](research/neuro.html), or
-    brain-inspired computing, both at the architecture/computational and
-    the implementation/materials level. In particular I am interested in
-    exploring novel architectures capable of learning in real time, processing
-    data really fast, and computing under resource-constrained scenarios.
-    In my research, I have used primarily the insect brain as a source of
-    inspiration, exploring both novel algorithms and their implementation
-    for AI at the edge and a new generation of detectors.
+
+-   Microelectronics: it requires the ability to control the synthesis of materials with atomic precision. Materials
+    synthesis of high qualility materials and interfaces has strong implications
+    in domains such as AI and quantum computing. Also, how to
+    enhance energy efficiency is critical for resource
+    limited environments such as sensors and detectors. In this area, [neuromorphic computing](research/neuro.html)
+    and other post-moore approaches are promising, and I am interested in developing design targets for
+    emergent materials that ensure capabilities that are not possible (or too costly) with current semiconductor technologies. In my research, I have used primarily the insect brain as a source of inspiration. You can check my Gilbreth lecture at the
+    US National Academies of Engineering [here](https://www.youtube.com/watch?v=Hz_QOnMaEA4).
+    
 -   [Electronic materials](research/electronic.html),
     both their synthesis and the way their properties can be leveraged to fabricate novel
     devices in microelectronics, quantum

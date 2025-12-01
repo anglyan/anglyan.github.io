@@ -1,14 +1,12 @@
 ---
-topic: machine 
+topic: AI 
 layout: default
 ---
 
-# Machine learning
+# Machine learning and AI
 
-Over the past years I have been exploring how machine learning can
-be leveraged in areas such as materials science, real time on chip data processing
-(for instance for future high energy physics detectors), and accelerate architecture
-exploration and design.
+Over the past years I have been exploring how machine learning and AI can
+be leveraged for materials synthesis and microelectronics.
 
 ## Applications to materials and manufacturing
 
@@ -34,13 +32,25 @@ I am exploring the following ideas:
   scientific research. Understanding how state of the art models perform in materials
   synthesis and processing tasks is something that is critical to determine their usefulness
   in real life. I am working with a team of domain experts and computer scientists to
-  develop new benchmarks and develop a deeper understanding of their capabilities. 
+  develop new benchmarks and develop a deeper understanding of their capabilities.
 
 
-## Development of novel algorithms
+## Development of novel algorithms more suitable for materials research
 
-One of the challenging in science is that experiments are really expensive. Developing
+AI and machine learning research tends to look to algorithms that are widely applicable. When
+someone says that they have applied a blackbox algorithm to a problem, that's actually a praise.
+It means that someone has been able to crack a common problem and that the resulting method
+or algorithm has tons of value.
+
+Conversely, we domain scientists have to deal to very specific constraints or types of data.
+This means that sometimes we need to adapt existing algorithms or come up with something
+that is particularized to our needs. The main thing is not that the algorithm is novel,
+it is that we can now solve a problem that we used to have.
+
+One of the challenges in science is that experiments are really expensive. Developing
 algorithms that can learn with a few examples and improve as data from other experiments is
-made available without the need to go through expensive retraining is critical to maximize
-AI's potential in scientific research. We have been borrowing ideas from the insect brain to develop continual learning algorithms that target these challenges.
+made available (ideally without the need to go through expensive retraining) is critical to maximize
+AI's potential in scientific research. We have been borrowing ideas from many sources, from 
+Bayesian processes to the insect brain to develop continual learning algorithms that target some of
+our unique challenges in materials synthesis and microelectronics.
 
