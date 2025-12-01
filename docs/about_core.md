@@ -56,6 +56,11 @@ Things that you can find on this site (see the content sidebar):
 -   My [chemical biography](research/chembio.html), summarizing my personal
     relationship with different chemical elements.
 -   My upgoer five description of [atomic layer deposition](/stuff/upgoer.html).
--   A [blog](/blog/index.html) (in Spanish). 
+-   A [blog](/blog/index.html) with random thoughts and research updates.
 
+Other sites (in Spanish):
+
+-   [anglyan.net](https://anglyan.net)
+-   [cienciaypython](https://cienciaypython.github.io/book/): tutoriales usando jupyter book
+    y MyST.
 
