@@ -12,7 +12,7 @@ My current research focuses on the following areas:
     structure, and properties of materials. Basically how stuff is made
     (and unmade), from fundamental physics to manufacturing. My research
     in this area leverages simulations, 
-    [machine learning](research/machine.html), and in-situ characterization techniques to explore
+    [machine learning/AI](research/machine.html), and in-situ characterization techniques to explore
     fundamental questions, accelerate discovery
     and its transition to manufacturing. I have focused primarily on
     atomic layer deposition, a thin film growth technique that is
@@ -26,7 +26,7 @@ My current research focuses on the following areas:
     and other post-moore approaches are promising, and I am interested in developing design targets for
     emergent materials that ensure capabilities that are not possible (or too costly) with current semiconductor technologies. In my research, I have used primarily the insect brain as a source of inspiration. You can check my Gilbreth lecture at the
     US National Academies of Engineering [here](https://www.youtube.com/watch?v=Hz_QOnMaEA4).
-    
+
 -   [Electronic materials](research/electronic.html),
     both their synthesis and the way their properties can be leveraged to fabricate novel
     devices in microelectronics, quantum
