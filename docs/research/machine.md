@@ -8,31 +8,36 @@ layout: default
 Over the past years I have been exploring how machine learning and AI can
 be leveraged for materials synthesis and microelectronics.
 
-## Applications to materials and manufacturing
+## Evaluating the potential of AI for materials synthesis and manufacturing
 
-In the context of materials, I am very interested in how we can develop new methodologies that can
-help accelerate materials synthesis and its transition to manufacturing.
+Given the wealth of techniques currently available, from traditional machine learning
+approaches to reasoning large language models, we need to develop a better understanding
+of how these can be applied to accelerate both process optimization and materials synthesis.
 
-I am exploring the following ideas:
+### Integrating AI agents with thin film deposition tools
 
-- Developing self-driving tools that integrate in-situ characterization
-  techniques with algorithms to help optimize materials towards a specific
-  goal. I have focused primarily on atomic layer deposition, since 
-  it is an ideal model system to explore inorganic materials and it is
-  heavily used in semiconductor processing.
+From an experimental standpoint, I am very interested in understanding how to integrate
+various flavors of AI models with thin film growth techniques and in-situ characterization
+techniques. My technique of choice so far has been atomic layer deposition, where we have
+the ability to design custom software to bridge the gap between AI agents built on top
+of reasoning language models, and the hardware used to control ALD processes.
 
-- Exploring how we can use metrology tools to predict process optimization
-  and process transfer across tools and processing techniques. The use of
-  metrology tools during synthesis and manufacturing is ubiquitous in industry,
-  and when properly design they can provide information not just about how
-  your process is currently doing, but how it will behave in other conditions.
+### Exploring how to use AI in conjunction with metrology tools
 
-- Benchmarking large language models for materials synthesis and manufacturing. There
-  is a lot of interest (with a dose of hype) in LLMs and their potential to assist on
-  scientific research. Understanding how state of the art models perform in materials
-  synthesis and processing tasks is something that is critical to determine their usefulness
-  in real life. I am working with a team of domain experts and computer scientists to
-  develop new benchmarks and develop a deeper understanding of their capabilities.
+Can we make the most of the information provided by metrology tools currently used
+in areas such as semiconductor industry? How much information can we extract from
+the data that we acquire as part of existing characterization workflows?
+The use of metrology tools during synthesis and manufacturing is ubiquitous in industry.
+New methodoloigies can provide information not just about how the current
+ process is doing, but predict how it will perform in different conditions.
+
+### Evaluating generative AI for materials synthesis and manufacturing
+
+There is a lot of interest (with a dose of hype) in LLMs and their potential to assist on
+scientific research. Understanding how state of the art models perform in materials
+synthesis and processing tasks is something that is critical to determine their usefulness
+in real life. I am working with a team of domain experts and computer scientists to
+develop new benchmarks and develop a deeper understanding of their capabilities.
 
 
 ## Development of novel algorithms more suitable for materials research
@@ -51,6 +56,6 @@ One of the challenges in science is that experiments are really expensive. Devel
 algorithms that can learn with a few examples and improve as data from other experiments is
 made available (ideally without the need to go through expensive retraining) is critical to maximize
 AI's potential in scientific research. We have been borrowing ideas from many sources, from 
-Bayesian processes to the insect brain to develop continual learning algorithms that target some of
+Gaussian processes to the insect brain to develop continual learning algorithms that target some of
 our unique challenges in materials synthesis and microelectronics.
 

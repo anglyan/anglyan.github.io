@@ -3,7 +3,7 @@ topic: neuro
 layout: default
 ---
 
-# Neuromorphic computing
+# Brain inspired computing
 
 Neuromorphic computing falls in one of my sweet spots. From a
 theoretical point of view, one of the key questions is to understand the
@@ -27,73 +27,28 @@ complexity and diversity found in vertebrates, yet the number of neurons
 and connections is more manageable, in some cases within the range of
 existing technology.
 
-## Finding the right level of complexity
+## Neuromorphic computing as a materials design problem
 
-If we want to design neuromorphic systems with capabilities similar to
-those of insects, one of the key questions is what is what is the level
-of complexity and fidelity that is required to reproduce the
-functionality of biological systems.
+There are thousands of research papers on various types of emergent
+devices (usually referred to as memristors) that implement behaviors
+that are inspired on those of biological neurons. Likewise, from a circuit
+perspective, the so-called cross-bar arrays have been explored in
+depth in the literature as a way of incorporating these devices into
+more complex architectures.
 
-The approach that I have taken in this area is to step back from the
-materials and instead focus on understanding the dynamics of these
-systems from a mathematical point of view. This includes, for instance,
-exploring the difference between spiking and non-spiking systems in
-terms of their computational ability, the impact of the network
-structure on the performance of the system, and the exploration of ways
-in which systems can display dynamic learning capabilities.
+However, a key challenge is that we do not know what ideal properties these
+devices should have for practical applications. In fact, we don't even
+have a good way of quantifying the advantages these emergent devices could bring
+to general purpose computing applications. This is an important barrier
+that hinders the tech transfer of any lab-scale breakthroughs.
 
-The aim of this exploration is to identify the simplest possible
-architecture that can execute a given task.
+My research seeks to strengthen this connection between application and the
+ideal device and materials properties. Through research projects funded
+both internally at Argonne as part of DOE's microelectronics program, we
+leverage AI and machine learning techniques to connect applications in
+the area of detectors with novel materials.
 
-## Mapping bio-inspired architectures to hardware
-
-A final aspect of my interest in neuro-inpired computing is how we can
-translate the dynamic models into hardware. Many of the recent advances
-in deep learning and artificial intelligence rely on high performance
-computing capabilities: typically problems are solved on a cluster and
-the solution then relayed to the user.
-
-My focus is instead on the development of fully autonomous systems where
-capabilities are implemented locally (i.e. on a chip). This involves
-understanding the limitations of standard semiconductor manufacturing
-approaches, the type of devices that would be needed, and the
-requirements that novel materials must have in order to implement the
-desired functionality. Techniques such as atomic layer deposition can
-help us push the limits of 3D architectures and expand the range of
-materials while being compatible with semiconductor processing.
-
-A fascinating challenge is that biological systems are open systems with
-a extremely capable biomolecular machinery able to self-heal and modify
-their performance and architecture over time. In contrast, the
-architectures that we can design through semiconductor manufacturing are
-frozen in time. Many of the challenges on making neuro-inpired chips
-come from the need of bridging this gap.
-
-## A 3D printed brain?
-
-One of the advantages of focusing on insect-inspired systems is that the
-number of neurons is much smaller than that of the human brain: from the
-2000 Kenyon cells in the fruit fly\'s mushroom body to around 1,000,000
-neurons for the whole central nervous system of a bee. If we consider
-system sizes of the order of 1,000s of neurons, we suddenly open up the
-manufacturing possibilities to implement such systems.
-
-Not only we can leverage foundries targeting 100nm nodes or higher, but
-we can also start thinking of alternative ways of implementing such a
-system beyond semiconductor processing. Printing technologies with
-resolution around 1 micron are now possible, as is the ability to
-manufacture complex electronic systems on flexible substrates, or on
-other platforms such as silicon carbide. However, in order to make this
-possible we have to first understand the design principles behind such
-systems.
-
-## If you want to know more
-
-Our 2019 work submitted to the Space Computing Conference received
-the best paper award:[The Insect Brain as a Model System for Low Power Electronics and Edge Processing Applications](https://ieeexplore.ieee.org/abstract/document/8853795).
-
-
-I am also leading a project funded through DARPA's Lifelong Learning
-Machine program, which focuses in some of the challenges I am
-interested in: [L2M
-program](https://www.darpa.mil/news-events/2017-03-16).
+In parallel to this effort, we are exploring the potential of agentic
+AI integrated with semiconductor manufacturing technique such as
+atomic layer deposition to accelerate our ability to do science and
+explore a wider range of materials.

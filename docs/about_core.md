@@ -63,6 +63,5 @@ Things that you can find on this site (see the content sidebar):
 Other sites (in Spanish):
 
 -   [anglyan.net](https://anglyan.net)
--   [cienciaypython](https://cienciaypython.github.io/book/): tutoriales usando jupyter book
-    y MyST.
+
 
