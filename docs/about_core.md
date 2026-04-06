@@ -1,8 +1,8 @@
 
 
-I am a physicist / materials scientist, currently a staff scientist at
-[Argonne National
-Laboratory](https://www.anl.gov/profile/angel-yanguasgil)'s
+I am a physicist / materials scientist, currently the director of the Argonne
+Microelectronics Institute and a staff scientist at
+[Argonne National Laboratory](https://www.anl.gov/profile/angel-yanguasgil)'s
 Applied Materials Division.
 
 My current research focuses on the following areas:
@@ -15,7 +15,7 @@ My current research focuses on the following areas:
     [machine learning/AI](research/machine.html), and in-situ characterization techniques to explore
     fundamental questions, accelerate discovery
     and its transition to manufacturing. I have focused primarily on
-    atomic layer deposition, a thin film growth technique that is
+    [atomic layer deposition](research/ald.html), a thin film growth technique that is
     widely used in microelectronics and for energy applications.
 
 -   Microelectronics: it requires the ability to control the synthesis of materials with atomic precision. Materials
