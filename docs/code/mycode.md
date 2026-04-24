@@ -1,6 +1,0 @@
----
-topic: code
-layout: default
----
-
-# 
