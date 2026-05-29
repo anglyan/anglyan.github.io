@@ -49,6 +49,6 @@ leverage AI and machine learning techniques to connect applications in
 the area of detectors with novel materials.
 
 In parallel to this effort, we are exploring the potential of agentic
-AI integrated with semiconductor manufacturing technique such as
+AI integrated with semiconductor manufacturing techniques such as
 atomic layer deposition to accelerate our ability to do science and
 explore a wider range of materials.

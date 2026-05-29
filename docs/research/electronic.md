@@ -29,11 +29,11 @@ can be grown epitaxially at temperatures as low as 100 degrees C, yet
 the temperature is so low that [we can control the distribution of
 dopants](http://dx.doi.org/10.1021/cm2014576).
 
-I am also interested on the electronic properties of hybrid
+I am also interested in the electronic properties of hybrid
 organic-inorganic materials fabricated via techniques such as sequential
 infiltration synthesis. This technique allows us to take polymers,
 including 3D printed materials, and infiltrate them with inorganic
-materials, resulting on composites with novel optical and mechanical
+materials, resulting in composites with novel optical and mechanical
 properties.
 
 Similarly, I have explored other systems such as wide bandgap
@@ -43,7 +43,7 @@ different ways of stacking its atoms. Silicon carbide may not be the
 hottest material out there, but it is key for advanced power electronics
 and also provides a pathway to enable computing under extreme
 environments, such as high temperature and high radiation. It is also a
-promising subtrate for quantum computing. Finally, SiC is an important
+promising substrate for quantum computing. Finally, SiC is an important
 constituent of presolar grains, primordial material that predates the
 formation of the solar system.
 
@@ -53,8 +53,7 @@ probe growth using in-situ techniques to understand the mechanistic
 aspects involved in the formation of these materials. Over the past
 years, I have been involved in a number of projects involving the
 development of models to try to capture the evolution of microstructure
-during SiC growth and, from an experimental point of view, develop
-developing new ways of accessing these growth conditions using
+during SiC growth and, from an experimental point of view, developing new ways of accessing these growth conditions using
 synchrotron radiation. I am also part of a project looking into the
 device degradation under neutron bombardment.
 
@@ -66,9 +65,9 @@ harder to achieve in other comparable materials such as silicon carbide
 or gallium nitride. Therefore, it is an interesting material to keep an
 eye on, and it is the focus of one of my current research projects.
 
-## Design principles for electronic materiasl for brain-inspired computing
+## Design principles for electronic materials for brain-inspired computing
 
-Another area or current interest is on beyond CMOS approaches and in
+Another area of current interest is on beyond CMOS approaches and in
 particular on [neuromorphic computing](/research/neuro.html).
 One of the fascinating aspects for me on this area is the
 strong coupling between materials, architectures, and computing, and the

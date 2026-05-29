@@ -7,7 +7,7 @@ layout: default
 
 ## Research topics
 
-Here are a summary of some of my main research topics:
+Here is a summary of some of my main research topics:
 
 - The physics of [growth](/research/growth.html)
 - [Atomic layer deposition](/research/ald.html)

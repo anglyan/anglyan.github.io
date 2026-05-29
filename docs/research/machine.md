@@ -28,7 +28,7 @@ Can we make the most of the information provided by metrology tools currently us
 in areas such as semiconductor industry? How much information can we extract from
 the data that we acquire as part of existing characterization workflows?
 The use of metrology tools during synthesis and manufacturing is ubiquitous in industry.
-New methodoloigies can provide information not just about how the current
+New methodologies can provide information not just about how the current
  process is doing, but predict how it will perform in different conditions.
 
 ### Evaluating generative AI for materials synthesis and manufacturing
@@ -47,7 +47,7 @@ someone says that they have applied a blackbox algorithm to a problem, that's ac
 It means that someone has been able to crack a common problem and that the resulting method
 or algorithm has tons of value.
 
-Conversely, we domain scientists have to deal to very specific constraints or types of data.
+Conversely, we domain scientists have to deal with very specific constraints or types of data.
 This means that sometimes we need to adapt existing algorithms or come up with something
 that is particularized to our needs. The main thing is not that the algorithm is novel,
 it is that we can now solve a problem that we used to have.

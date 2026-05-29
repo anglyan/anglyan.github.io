@@ -6,7 +6,7 @@ layout: default
 
 # The physics of growth 
 
-Growth is onw of my key areas of interest. The physics of growth
+Growth is one of my key areas of interest. The physics of growth
 comprises the mechanisms by which building blocks come together to form
 large scale structures in a way that is mainly dominated by local
 interactions and external fields. This is at the heart of how materials
@@ -20,9 +20,9 @@ found fascinating.
 ## Growth under the influence of chemistry
 
 One of the fundamental questions is to understand how growth conditions
-affect the microstructure of the materials that it is being formed. This
+affect the microstructure of the materials that is being formed. This
 is particularly interesting at low temperatures, where the mobility of
-atoms is hindered, potentially preventing them to relax and form highly
+atoms is hindered, potentially preventing them from relaxing and forming highly
 crystalline materials. Under these conditions, the details of the
 processes taking place at the surface can strongly impact the resulting
 microstructure, in some cases leading to highly ordered structures and
@@ -39,15 +39,15 @@ also help us chart new paths towards the synthesis of new materials.
 
 My approach to these questions is to combine experiments, simulations,
 and machine learning to deepen our understanding of the fundamental aspects
-of thin film growth and develop new applications. From a experimental point
+of thin film growth and develop new applications. From an experimental point
 of view, we focus primarily on a technique called
 [atomic layer deposition](/research/ald.html),
 which has the advantage of being extremely reproducible -when done
 right. We also leverage synchrotron radiation and other in-situ
 techniques to probe in detail the structure of the material as they
-evolve from its individual atoms.
+evolve from their individual atoms.
 
-From a simulation perspective, our focus in mainly on kinetic Monte
+From a simulation perspective, our focus is mainly on kinetic Monte
 Carlo simulations to model growth on arbitrary graphs, as well as the
 development of novel simulation tools to model reactive transport and
 predict growth within high surface area materials. These allow us to
@@ -77,7 +77,7 @@ they are strongly intertwined.
 ## And beyond
 
 Outside my day job as a researcher, there are many rabbit holes where
-my curiousity goes regarding growth: the physics of self-assembly, the early
+my curiosity goes regarding growth: the physics of self-assembly, the early
 stages of the solar system, the raw materials used in manufacturing,
 or the process of morphogenesis in biological systems are areas that I find fascinating.
 There is also beauty in growth, from the shapes of crystals and the landscapes
