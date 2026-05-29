@@ -5,7 +5,7 @@ Microelectronics Institute and a staff scientist at
 [Argonne National Laboratory](https://www.anl.gov/profile/angel-yanguasgil)'s
 Applied Materials Division.
 
-My current research focuses on the following areas:
+My current research insterests are in the following areas:
 
 -   The [physics and chemistry of growth](research/growth.html), 
     and the  relationship between surface kinetics,
@@ -16,16 +16,20 @@ My current research focuses on the following areas:
     fundamental questions, accelerate discovery
     and its transition to manufacturing. I have focused primarily on
     [atomic layer deposition](research/ald.html), a thin film growth technique that is
-    widely used in microelectronics and for energy applications.
+    widely used in microelectronics and for energy applications. On the AI side, I am
+    very interested in how we can integrate AI with experiments and simulations in ways
+    that really make sense, and how we can evaluate the potential and limitations that AI
+    has in scientific research.
 
--   Microelectronics: it requires the ability to control the synthesis of materials with atomic precision. Materials
-    synthesis of high qualility materials and interfaces has strong implications
+-   Microelectronics: it requires the ability to control the synthesis of materials with atomic precision and with unprecedented levels of purity. The ability to synthesize
+    high quality materials and interfaces has strong implications
     in domains such as AI and quantum computing. Also, how to
     enhance energy efficiency is critical for resource
-    limited environments such as sensors and detectors. In this area, [neuromorphic computing](research/neuro.html)
-    and other post-moore approaches are promising, and I am interested in developing design targets for
-    emergent materials that ensure capabilities that are not possible (or too costly) with current semiconductor technologies. In my research, I have used primarily the insect brain as a source of inspiration. You can check my Gilbreth lecture at the
-    US National Academies of Engineering [here](https://www.youtube.com/watch?v=Hz_QOnMaEA4).
+    limited environments such as sensors and detectors, and to minimize the current and future impact of AI on the electric grid. In this area, [neuromorphic computing](research/neuro.html)
+    and other post-moore approaches are promising, however the integration of emergent materials with current technologies (the so called CMOS+X) is hard and in many cases
+    we don't have clear design targets for
+    emergent materials that ensure new capabilities that are not possible (or too costly) with current semiconductor technologies. In my research, I have used primarily the insect brain as a source of inspiration. You can check my Gilbreth lecture at the
+    US National Academies of Engineering [here](https://www.youtube.com/watch?v=Hz_QOnMaEA4). 
 
 -   [Electronic materials](research/electronic.html),
     both their synthesis and the way their properties can be leveraged to fabricate novel
@@ -37,8 +41,7 @@ expertise in the following areas:
 
 -   Plasma physics and plasma kinetics. My first love. Bringer of twisty
     magnetic lines and reactive noble gas atoms. Killer of surfaces and
-    enabler of computer chips. I am currently part of project looking
-    at plasma processing for decarbonization.
+    enabler of computer chips.
 -   The interaction and scattering of electromagnetic fields and in
     particular light with matter, including spectroscopic ellipsometry
     and metamaterials.
